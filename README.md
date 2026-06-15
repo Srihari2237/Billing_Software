@@ -1,4 +1,4 @@
-# Anju Trading — Billing System v3.0
+# Billing System v3.0
 
 Full-stack web billing application built with **Next.js 14** (frontend) + **FastAPI / Python 3.11** (backend) + **SQLite** (database).
 
